@@ -1,0 +1,24 @@
+# Java compiled files
+*.class
+
+# Java build output
+bin/
+build/
+target/
+
+# Eclipse workspace metadata
+.metadata/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
